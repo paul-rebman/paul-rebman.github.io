@@ -27,8 +27,8 @@ author:
   name             : "Paul Rebman"
   pronouns         : "he/him" 
   bio              : "Doctoral Candidate<br> Department of Mental Health <br> Johns Hopkins Bloomberg School of Public Health"
-  location         : "Baltimore, MD"
-  employer         : "Johns Hopkins University"
+  location         : "Boston, MA"
+  employer         : # "Johns Hopkins University"
   uri              : # URL
   email            : "prebman1@jh.edu" 
 
