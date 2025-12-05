@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot mn reduced size.jpeg"
+  avatar           : "headshot.jpeg"
   name             : "Paul Rebman"
   pronouns         : "he/him" 
   bio              : "Doctoral Candidate<br> Department of Mental Health <br> Johns Hopkins Bloomberg School of Public Health"
